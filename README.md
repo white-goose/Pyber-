@@ -1,4 +1,4 @@
-# Unit 5 | Assignment - The Power of Plots
+The Power of Plots
 
 ## Background
 
@@ -6,9 +6,7 @@ What good is data without a good plot to tell the story?
 
 So, let's take what you've learned about Python Matplotlib and apply it to some real-world situations. For this assignment, you'll need to complete **1 of 2** Data Challenges. As always, it's your choice which you complete. _Perhaps_, choose the one most relevant to your future career.
 
-## Option 1: Pyber
-
-![Ride](Images/Ride.png)
+Pyber
 
 The ride sharing bonanza continues! Seeing the success of notable players like Uber and Lyft, you've decided to join a fledgling ride sharing company of your own. In your latest capacity, you'll be acting as Chief Data Strategist for the company. In this role, you'll be expected to offer data-backed guidance on new opportunities for market differentiation.
 
@@ -39,9 +37,7 @@ As final considerations:
   * When making your Pie Chart, experiment with effects like `shadow`, `startangle`, and `explosion`.
 * See [Starter Workbook](Pyber/pyber_starter.ipynb) for a reference on expected format.
 
-## Option 2: Pymaceuticals Inc
-
-![Laboratory](Images/Laboratory.jpg)
+Pymaceuticals Inc
 
 While your data companions rushed off to jobs in finance and government, you remained adamant that science was the way for you. Staying true to your mission, you've since joined Pymaceuticals Inc., a burgeoning pharmaceutical company based out of San Diego, CA. Pymaceuticals specializes in drug-based, anti-cancer pharmaceuticals. In their most recent efforts, they've since begun screening for potential treatments to squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
 
@@ -81,6 +77,3 @@ As final considerations:
 
 * Get help when you need it! There is never any shame in asking. But as always, ask a _specific_ question. You'll never get a great answer to: "I'm lost." Good luck!
 
-## Copyright
-
-Data Boot Camp © 2018. All Rights Reserved.
